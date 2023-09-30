@@ -1,2 +1,17 @@
 # DDoS_KAISERS
-un ddos potente y peligroso
+un DDoS poderoso usalo con precaución, no lo
+uses contra un govierno o webs de empresas,
+diseñado para pruebas de seguridad
+
+
+EJECUTAR:
+
+
+git clone https://github.com/Xtexanony/DDoS_KAISERS
+
+cd DDoS_KAISERS
+
+python DDoS_KAISERS.py
+
+
+BY: XTEXZZZ
