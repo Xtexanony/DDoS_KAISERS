@@ -11,7 +11,7 @@ git clone https://github.com/Xtexanony/DDoS_KAISERS
 
 cd DDoS_KAISERS
 
-python DDoS_KAISERS.py
+python3 DDoS_KAISERS.py
 
 
 BY: XTEXZZZ
